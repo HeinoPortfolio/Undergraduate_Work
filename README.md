@@ -1,6 +1,6 @@
 # Undergraduate degree work
 
-The table below shows a listing of the repositories that contain undergraduate work. This is a repository that is a main listing of the prrojects and other assessments that were completed during my undergraduate studies.
+The table below shows a listing of the repositories that contain undergraduate work. This is a repository that is a main listing of the projects and other assessments that were completed during my undergraduate studies.
 
 
 
