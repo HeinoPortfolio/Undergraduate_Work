@@ -2,7 +2,7 @@
 
 The table below shows a listing of the repositories that contain undergraduate work. This is a repository that is a main listing of the projects and other assessments that were completed during my undergraduate studies.
 
-
+$`\textcolor{blue}{\text{Note: The Android Project was the capstone for the degree.  It is the culmination of all topics and concepts learned while pursuing the bachelor's degree in software development}}`$.
 
 
 |**Undergraduate Repository**|**Repository Description**| 
