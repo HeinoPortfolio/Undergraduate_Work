@@ -13,3 +13,8 @@ $`\textcolor{blue}{\text{Note: The Android Project was the capstone for the degr
 |[Android Project](https://github.com/HeinoPortfolio/AndroidProject)|Undergraduate project whose pupose was to build an application that would allow students to manage their term's information for a fictious school.|
 |[UX UI](https://github.com/HeinoPortfolio/UX-UI)|This repository will hold work product that is involved in UX/UI design. The Personas directory contains sample personas. The Wireframes directory contains sample wireframes.|
 
+# Graduate Level Work
+* For master's work in **data science** [click here](https://github.com/HeinoPortfolio/Graduate-Work).
+* For master's work in **data analytics** [click here](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work)
+* For master's work in **computer science** [click here](https://github.com/HeinoPortfolio/MS_Comp_Sci).
+  * **Note:** The link above will be active for job interviews and by request.  This is to meet school requirements on academic work privacy.
